@@ -57,8 +57,8 @@ export default {
       type: 'string',
     },
     {
-      name: 'scaleTime',
-      title: 'ScaleTime',
+      name: 'saleTime',
+      title: 'SaleTime',
       type: 'string',
     },
   ],
